@@ -1,0 +1,13 @@
+# vscode
+.vscode
+
+# c
+*.exe
+*.out
+*.o
+
+# test
+test.*
+
+# drawio backup
+*.drawio.bkp
